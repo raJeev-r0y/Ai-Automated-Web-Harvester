@@ -7,7 +7,7 @@ from scrape import (
 )
 from parse import parse_with_ollama
 
-st.title("AI Automated Web Hervester")
+st.title("AI Automated Web Harvester")
 url = st.text_input("Enter a Website URL: ")
 
 if st.button("Scrape Site"):
