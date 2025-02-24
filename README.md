@@ -3,7 +3,8 @@
 Ai-Automated-Web-Harvester: Streamlit + Selenium + BeautifulSoup + ChromeDriver + LangChain + Ollama = answers from any URL. <br>🤖 Give it a spin! 😉<br>
 #AItools #WebAutomation #LocalLLM!<br><br>
 <h3>Example :</h3>
-<p>Let's try with the site of "Code with Harry " and the URL :https://www.codewithharry.com/</p><br>
+<p>Let's try with the site of "Code with Harry " and the URL : <i>https://www.codewithharry.com/</i></p>
+<hr><br>
 
 ![logo](https://github.com/raJeev-r0y/Ai-Automated-Web-Harvester/blob/main/pic/4.png)
 
