@@ -1,3 +1,5 @@
 # Ai-Automated-Web-Harvester
-• Engineered an AI Automated Web Harvester using Python, integrating Selenium, BeautifulSoup, and Chrome Driver for robust DOM parsing and content extraction.<br>
-• Implemented LangChain with help of Ollama to create a prompt-driven interface, enabling users to query scraped data with natural language prompts for precise information retrieval.
+<h4>No more website digging! 😩 Get the info you need with a question.👀</h4><br>
+Ai-Automated-Web-Harvester: Streamlit + Selenium + BeautifulSoup + ChromeDriver + LangChain + Ollama = answers from any URL. <br>🤖 Give it a spin! 😉<br>
+#AItools #WebAutomation #LocalLLM!<br><br>
+<h3>let's see an Example :</h3>
